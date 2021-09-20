@@ -1,14 +1,27 @@
-# Technical Interviews Training Discussion Notes (2020-09-20)
+# Technical Interviews Training Discussion Notes (2021-09-20)
 
-# Key Takeaways:
+#### Table of Contents
+
+- [Understanding the Technical Interview Perspective](#understanding-the-technical-interviewer-perspective)
+- [Interviewing Is a Skill](#interviewing-is-a-skill)
+- [How Do You Build Confidence in a Skill?](#how-do-you-build-confidence-in-a-skill)
+- [EVERY Interview Is a Step in a Growth Process](#every-interview-is-a-step-in-a-growth-process)
+- [Types of Technical Interviews](#what-sorts-of-technical-interviews-might-you-expect-to-encounter)
+- [How to Communicate with a Technical Interviewer](#how-to-communicate-with-a-technical-interviewer)
+- [Your Goals in a Technical Interview](#your-goals-in-a-technical-interview)
+- [Get Better at "Talking Shop" by Learning the Jargon](#get-better-at-talking-shop-using-software-developer-jargon)
+- [**LINKS**](#links)
+
+## Key Takeaways:
   - **There is only one true way for an interviewer to know for certain whether you would be a good fit for their team**: they would have to hire you. What does this mean? *No one* knows how to lead a perfect interview. In other words, interviews suck. But they are also the only option we have. This is also the central reason why *networking* is so important.
   - A good interviewer's primary goal is **to understand what it would be like to work with you**. A poor interviewer thinks their primary goal is to see if you meet specific requirements. You will meet both. Poor interviewers will often "get it" if you handle the soft-skills aspect of interviewing well.
   - Interviewers will vary wildly in their own interviewing skills. And they have bad days, too. If an interview goes poorly, it may not be your fault. In fact, a "failed" interview is almost always the fault of *everyone* involved (if you showed up on time). **Remember: interviews suck. Don't take it personally.**
-  - **Never invest your emotions or your plans** into a single series of interviews with a company.
   - **Interviews would not exist if employers were only looking for "yes" or "no" answers**: that's what they have job applications for. Ask clarifying questions. Give clarifying answers.
   - **Interviewing well is a learnable set of skills.** Interviews are practice for interviews. "Failed" interviews are just as important as "good" interviews for building those skills. And other activities can function as interview practice, as well: networking in general, teaching someone else to code, etc.
+  - There is no such thing as "my last job interview!!!," until you have both *signed a contract* and *have started Day One.* There is no such thing as a "sure thing" when it comes to job interviews, until you are legally earning money on "company time." So focus on the *learning objective,* not so much on the end result. This will help you manage your expectations, help you relax, and build your confidence. **Interviewing is like _TRYING_ to fall asleep or public speaking: if you obsess about it, you will struggle to achieve it.** You are more likely to freeze when you are afraid of rejection.
+  - **Never invest your emotions or plans into a single series of interviews with a company.**
 
-## Technical Interviewer Perspective
+## Understanding the technical interviewer perspective
   - **WHO are technical interviewers?**
     - Probably a current or former software engineer.
     - Maybe a manager or team lead, but maybe not.
@@ -47,7 +60,7 @@
   - And sometimes it is pure luck.
   - But overall, it is a set of skills which can be nurtured and developed over time.
 
-## How do you build confidence in something?
+## How do you build confidence in a skill?
   - Confidence comes from repetition.
   - Repetition comes from time investment.
     - Your own time management
@@ -57,10 +70,12 @@
     - Professional and educational experience
       - A little of both goes a long way.
 
-## We want to treat EVERY interview as a step in a growth process, not the potential end to that process.
-  + Focus on the learning objective, not so much on the end result.
+## EVERY interview is a step in a growth process
+  + There is no such thing as "my last job interview," until you have both signed a contract and have started Day One. There is no such thing as a "sure thing" when it comes to job interviews, until you are legally earning money in the company's employ.
+  + So focus on the *learning objective,* not so much on the end result. This will help you manage your expectations, help you relax, and build your confidence.
+  + Interviewing is like _trying_ to fall asleep: if you obsess about it, you will struggle to achieve it.
   + You are more likely to freeze when you are afraid of rejection.
-  + Never put all your hopes, plans, and emotions in one interview or company.
+  + Never invest your emotions or plans in one interview or company.
 
 ## What sorts of technical interviews might you expect to encounter?
   - Discussion-based technical interview (one or more interviewers)
@@ -87,6 +102,7 @@
 ## YOUR Goals in a Technical Interview
   - Avoid freezing if you can. Recover quickly if you do.
   - Immediately after, write down notes about the experience, the job, and the company. Identify questions you might have answered better. Don't focus too much on correctness. Focus more on communication.
+  - (TODO: This section of the discussion needs expansion...)
 
 ## Get better at "talking shop" (using software developer jargon)
   - ANYTHING you can do which requires you
