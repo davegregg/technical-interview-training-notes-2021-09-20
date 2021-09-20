@@ -2,15 +2,16 @@
 
 #### Table of Contents
 
-- [Understanding the Technical Interview Perspective](#understanding-the-technical-interviewer-perspective)
-- [Interviewing Is a Skill](#interviewing-is-a-skill)
-- [How Do You Build Confidence in a Skill?](#how-do-you-build-confidence-in-a-skill)
-- [EVERY Interview Is a Step in a Growth Process](#every-interview-is-a-step-in-a-growth-process)
-- [Types of Technical Interviews](#what-sorts-of-technical-interviews-might-you-expect-to-encounter)
-- [How to Communicate with a Technical Interviewer](#how-to-communicate-with-a-technical-interviewer)
-- [Your Goals in a Technical Interview](#your-goals-in-a-technical-interview)
-- [Get Better at "Talking Shop" by Learning the Jargon](#get-better-at-talking-shop-using-software-developer-jargon)
-- [**LINKS**](#links)
+1. [**Key Takeaways**](#key-takeaways)
+2. [Understanding the Technical Interview Perspective](#understanding-the-technical-interviewer-perspective)
+3. [Interviewing Is a Skill](#interviewing-is-a-skill)
+4. [How Do You Build Confidence in a Skill?](#how-do-you-build-confidence-in-a-skill)
+5. [EVERY Interview Is a Step in a Growth Process](#every-interview-is-a-step-in-a-growth-process)
+6. [Types of Technical Interviews](#what-sorts-of-technical-interviews-might-you-expect-to-encounter)
+7. [How to Communicate with a Technical Interviewer](#how-to-communicate-with-a-technical-interviewer)
+8. [Your Goals in a Technical Interview](#your-goals-in-a-technical-interview)
+9. [Get Better at "Talking Shop" by Learning the Jargon](#get-better-at-talking-shop-using-software-developer-jargon)
+10. [**Links**](#links)
 
 ## Key Takeaways:
   - **There is only one true way for an interviewer to know for certain whether you would be a good fit for their team**: they would have to hire you. What does this mean? *No one* knows how to lead a perfect interview. In other words, interviews suck. But they are also the only option we have. This is also the central reason why *networking* is so important.
